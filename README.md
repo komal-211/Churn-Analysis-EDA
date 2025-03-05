@@ -43,8 +43,6 @@ Contributions to this repository are welcome. Please submit a pull request with 
 Acknowledgments
 I would like to thank Kaggle for providing the dataset and the Python data science community for their support and resources.
 
-Contact
-For questions or feedback, please contact hiteshnitkkr.
 
 Files
 churn_data.csv: The customer churn dataset
